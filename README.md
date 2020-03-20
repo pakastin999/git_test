@@ -1,0 +1,1 @@
+This is Juhani's first git project!
